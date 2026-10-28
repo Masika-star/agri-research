@@ -33,10 +33,17 @@ My work sits at the intersection of **agriculture, food systems, quantitative re
 
 > My strongest foundation is agricultural research and applied quantitative analysis. My R and GitHub skills are developing through reproducible portfolio projects, supported by the Google Data Analytics Professional Certificate and its R programming capstone.
 
+### Current focus
+
+**Currently in progress:** [Agroecological Practice Adoption among Smallholder Farmers: An Exploratory Analysis in R](https://github.com/Masika-star/agroecological-practice-adoption).
+
+I am developing this project alongside the **Pro-RUWA R-Statistics for Beginners** course. My immediate next steps are to refine an answerable research question, select and document a suitable dataset, and then build a reproducible R workflow for data inspection, practice-adoption summaries, visualisation, and appropriate exploratory analysis. The project is at the setup and learning stage; empirical findings have not yet been produced.
+
 ### Selected projects
 
-| Project | Focus | Current evidence |
+| Project | Focus | Status / evidence |
 |---|---|---|
+| [Agroecological Practice Adoption](https://github.com/Masika-star/agroecological-practice-adoption) | Exploratory R analysis of individual and combined agroecological-practice adoption among smallholder farmers | **Currently in progress:** research question and dataset selection are pending; no empirical results claimed |
 | [Agricultural Data Analysis](projects/agricultural-data-analysis/README.md) | Kenya maize-yield analysis using public data | Completed R workflow with tables, figures and regression output |
 | [Agroecological Practices & Food Security](projects/agroecology-food-security/README.md) | Practice bundles, production diversity and household food security | Research design and planned analytical framework |
 | [Climate-Smart Agriculture & Poultry](projects/climate-smart-poultry/README.md) | Climate-smart practice adoption, poultry productivity and household income | Research design and planned analytical framework |
