@@ -4,78 +4,78 @@
 
 **Agricultural Research | Data Analysis | Applied Econometrics | Food Systems**
 
-I am an agricultural researcher and data-oriented professional with more than four years of experience across agricultural research, extension, farmer data collection, agribusiness, youth agricultural development, and applied research.
+## Professional profile
 
-My work sits at the intersection of **agriculture, food systems, quantitative research, and evidence-based policy**. I am particularly interested in using data and applied analytical methods to understand agricultural adoption, productivity, food security, livelihoods, and development interventions.
+Agricultural researcher and data-oriented professional with more than four years of experience in agricultural research, extension, farmer data collection, agribusiness, youth agricultural development, and applied research. The work focuses on applying quantitative and qualitative research approaches to agricultural adoption, productivity, food security, livelihoods, and development challenges.
 
-### Research interests
+Research interests include:
 
 - Agricultural and food systems research
-- Climate-smart and agroecological agriculture
+- Agroecology and climate-smart agriculture
 - Smallholder farmer livelihoods and productivity
 - Food security and nutrition
-- Agricultural extension and practice adoption
-- Impact evaluation and causal inference
-- Applied econometrics and policy analysis
-- Reproducible research and data-driven decision-making
+- Agricultural extension and technology adoption
+- Applied econometrics and impact evaluation
+- Policy analysis and evidence-based decision-making
+- Reproducible research and data management
 
-### Technical toolkit
+## Technical skills
 
-| Area | Tools / Methods |
+| Area | Tools and methods |
 |---|---|
 | Statistical analysis | R, Stata, Excel |
-| Data handling | Data cleaning, transformation, descriptive analysis, visualization |
-| Econometrics | Regression analysis, panel-data concepts, impact-evaluation methods |
-| Research | Survey design, quantitative research, qualitative research, literature synthesis |
-| Reproducibility | Git, GitHub, documented analytical workflows |
+| Data management | Data cleaning, transformation, descriptive analysis, visualisation |
+| Econometric analysis | Regression modelling, applied econometrics, diagnostic and robustness checks |
+| Research methods | Survey design, quantitative and qualitative research, literature synthesis |
 | Data collection | KoboToolbox / Kobo Collect, structured questionnaires |
+| Reproducible workflows | Git, GitHub, documented analytical scripts |
 | Supporting tools | Python for basic data handling and workflow support |
 
-> My strongest foundation is agricultural research and applied quantitative analysis. My R and GitHub skills are developing through reproducible portfolio projects, supported by the Google Data Analytics Professional Certificate and its R programming capstone.
+The portfolio demonstrates applied agricultural research and analytical work. R, GitHub, and reproducible workflow capabilities are being developed through documented projects, including training completed through the Google Data Analytics Professional Certificate and its R programming capstone.
 
-### Current focus
+## Current focus
 
-**Currently in progress:** [Agroecological Practice Adoption among Smallholder Farmers: An Exploratory Analysis in R](https://github.com/Masika-star/agroecological-practice-adoption).
+**[Agroecological Practice Adoption among Smallholder Farmers](https://github.com/Masika-star/agroecological-practice-adoption)**
 
-I am developing this project alongside the **Pro-RUWA R-Statistics for Beginners** course. My immediate next steps are to refine an answerable research question, select and document a suitable dataset, and then build a reproducible R workflow for data inspection, practice-adoption summaries, visualisation, and appropriate exploratory analysis. The project is at the setup and learning stage; empirical findings have not yet been produced.
+An exploratory R project focused on understanding individual and combined agroecological practice adoption. The current stage covers dataset inspection and initial data-quality assessment. The dataset contains 98 observations; 18 completely empty columns were removed from a working copy, duplicate checks found no repeated rows or observation identifiers, and the farm-type categories were found to be nearly equally represented. Missing livestock-related measurements are being investigated before further analysis.
 
-### Selected projects
+The project is being developed alongside the **Pro-RUWA R-Statistics for Beginners** course. Its research question, dataset documentation, and variable definitions will be confirmed before substantive analysis.
 
-| Project | Focus | Status / evidence |
+## Selected projects
+
+| Project | Analytical focus | Status |
 |---|---|---|
-| [Agroecological Practice Adoption](https://github.com/Masika-star/agroecological-practice-adoption) | Exploratory R analysis of individual and combined agroecological-practice adoption among smallholder farmers | **Currently in progress:** research question and dataset selection are pending; no empirical results claimed |
-| [Agricultural Data Analysis](projects/agricultural-data-analysis/README.md) | Kenya maize-yield analysis using public data | Completed R workflow with tables, figures and regression output |
-| [Agroecological Practices & Food Security](projects/agroecology-food-security/README.md) | Practice bundles, production diversity and household food security | Research design and planned analytical framework |
-| [Climate-Smart Agriculture & Poultry](projects/climate-smart-poultry/README.md) | Climate-smart practice adoption, poultry productivity and household income | Research design and planned analytical framework |
-| [Impact Evaluation](projects/impact-evaluation/README.md) | Evaluation of agricultural/development interventions | Planned public-data Difference-in-Differences project |
+| [Agricultural Data Analysis](projects/agricultural-data-analysis/README.md) | Historical trends in Kenya maize yields using a reproducible R workflow | **Completed empirical analysis** |
+| [Agroecological Practice Adoption](https://github.com/Masika-star/agroecological-practice-adoption) | Individual and combined agroecological practice adoption among smallholder farmers | **Data exploration and quality assessment in progress** |
+| [Agroecological Practices & Food Security](projects/agroecology-food-security/README.md) | Practice bundles, production diversity, and household food-security outcomes | **Research framework under development** |
+| [Climate-Smart Agriculture & Poultry](projects/climate-smart-poultry/README.md) | Climate-smart practice adoption, poultry productivity, and household income | **Research framework under development** |
+| [Impact Evaluation](projects/impact-evaluation/README.md) | Evaluation of agricultural or development interventions using an appropriate causal design | **Dataset selection and analysis pending** |
 
-The portfolio deliberately distinguishes **completed empirical analysis from proposed research designs**. Results are only presented where an analysis has actually been conducted using a documented dataset.
+The portfolio distinguishes completed empirical analysis from proposed research frameworks. Results are reported only where analysis has been conducted using documented data.
 
-### Experience highlights
+## Experience areas
 
 - Agricultural research and field data collection
 - Agricultural extension and farmer support
-- Agripreneurship and poultry enterprise management
+- Agribusiness and poultry enterprise management
 - Coordination of agripreneurs and youth agricultural groups
 - Youth mentorship and leadership
-- Research-oriented data analysis and interpretation
+- Research data analysis and interpretation
 
-### Reproducible research
+## Reproducible research approach
 
-This portfolio is being developed to make my analytical work transparent and reproducible. Projects document the research question, data source, methodology, analytical workflow, outputs, limitations, and implications.
+Projects are organised to document the research question, data source, variable definitions, methodology, analytical workflow, outputs, limitations, and interpretation. Raw or confidential farmer-level data are not published unless access conditions and data-use terms explicitly permit redistribution.
 
-### Certificates & training
+## Training and professional development
 
-Selected training includes the **Google Data Analytics Professional Certificate**, including its R programming capstone project. Certifications are presented as supporting evidence; the main focus of this portfolio is demonstrated research and analytical work.
+**Google Data Analytics Professional Certificate**, including the R programming capstone project. Additional learning is demonstrated through ongoing applied work in R, statistical analysis, agricultural research, and reproducible data workflows.
 
----
-
-### Contact
+## Contact
 
 **Masika M. Joshua**  
 Kenya  
-📧 **joshuamasika@hotmail.com**  
-📱 **+254 797 810 541**  
-🔗 **Research Portfolio:** https://github.com/Masika-star/agri-research
+Email: **joshuamasika@hotmail.com**  
+Phone: **+254 797 810 541**  
+Portfolio: [github.com/Masika-star/agri-research](https://github.com/Masika-star/agri-research)
 
-For professional opportunities, research collaboration, or questions about a project, please contact me using the details above.
+For professional opportunities, research collaboration, or enquiries about the projects, please use the contact details above.
